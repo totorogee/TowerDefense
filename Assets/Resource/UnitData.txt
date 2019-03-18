@@ -1,0 +1,65 @@
+[
+  {
+    "ID": 0,
+    "IsTeamT": 0,
+    "XPos": 6,
+    "YPos": 6,
+    "Directon": "0",
+    "Phase": 0,
+    "Type": 1
+  },
+  {
+    "ID": 1,
+    "IsTeamT": 1,
+    "XPos": 6,
+    "YPos": 7,
+    "Directon": "0",
+    "Phase": 0.1,
+    "Type": 1
+  },
+  {
+    "ID": 2,
+    "IsTeamT": 0,
+    "XPos": 6,
+    "YPos": 5,
+    "Directon": "1",
+    "Phase": 0.2,
+    "Type": 1
+  },
+  {
+    "ID": 3,
+    "IsTeamT": 1,
+    "XPos": 4,
+    "YPos": 8,
+    "Directon": "1",
+    "Phase": 0.3,
+    "Type": 1
+  },
+  {
+    "ID": 4,
+    "IsTeamT": 0,
+    "XPos": 2,
+    "YPos": 9,
+    "Directon": "0",
+    "Phase": 0.5,
+    "Type": 2
+  },
+  {
+    "ID": 5,
+    "IsTeamT": 1,
+    "XPos": 8,
+    "YPos": 4,
+    "Directon": "0",
+    "Phase": 0.6,
+    "Type": 2
+  },
+  {
+    "ID": 6,
+    "IsTeamT": 0,
+    "XPos": 10,
+    "YPos": 3,
+    "Directon": "1",
+    "Phase": 0.8,
+    "Type": 2
+  }
+]

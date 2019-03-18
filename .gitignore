@@ -1,0 +1,6 @@
+.vs/
+*.csproj
+*.sln
+Temp/
+obj/
+Library/
